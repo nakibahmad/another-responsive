@@ -1,0 +1,130 @@
+
+
+@media (max-width:1400px) {}
+@media (max-width:1399px) {}
+@media (max-width:1200px) {}
+@media (max-width:1199px) {
+    .about-caption {
+        margin-bottom: 68px;
+    }
+    .service-caption p {
+        font-size: 18px;
+        margin: 25px 0px;
+    }
+    .test {
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+}
+@media (max-width:1050px) {
+    .about-caption {
+        margin-bottom: 68px;
+    }
+}
+@media (max-width:992px) {
+    .banner-img {
+        margin-top: 138px;
+    }
+    .about-caption {
+        margin-bottom: 68px;
+    }
+    .about-caption {
+        margin-bottom: 68px;
+        margin-top: -30px;
+    }
+    .counter-items {
+        margin-bottom: 40px;
+    }
+    .test {
+        padding: 30px;
+    }
+}
+@media (max-width:991px) {
+    .test {
+        padding: 50px;
+    }
+    .service-caption h4 {
+        font-size: 30px;
+    }
+    .service-caption p {
+        font-size: 31px;
+    }
+    .service-caption span {
+        font-size: 30px;
+    }
+    .service-caption {
+        margin-bottom: 35px;
+    }
+}
+@media (max-width:768px) {
+    .banner-caption h1 {
+        font-size: 45px;
+    }
+    .banner-caption p {
+        font-size: 18px;
+    }
+    .about-caption p {
+        font-size: 17px;
+    }
+    .about-caption h1 {
+        font-size: 40px;
+    }
+    .service-caption h4 {
+        font-size: 25px;
+        margin: 14px 0px;
+    }
+    .service-caption span {
+        font-size: 25px;
+    }
+    .service-caption p {
+        font-size: 26px;
+    }
+    .form-content p {
+        font-size: 18px;
+    }
+    .form-content h2 {
+        font-size: 22px;
+    }
+    .b-form input {
+        font-size: 18px;
+    }
+    .b-form h2 {
+        font-size: 22px;
+    }
+}
+@media (max-width:576px) {
+    .counter-items p {
+        font-size: 18px;
+    }
+    .counter-items h1 {
+        font-size: 45px;
+    }
+    .about-caption p {
+        font-size: 16px;
+    }
+    .about-caption h1 {
+        font-size: 33px;
+    }
+    .service-caption p {
+        font-size: 20px;
+    }
+    .test {
+        padding: 35px;
+    }
+    .service-caption span {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:450px) {
+    .service-caption p {
+        font-size: 18px;
+    }
+    .service-caption h4 {
+        font-size: 20px;
+    }
+    .service-caption p {
+        font-size: 18px;
+    }
+
+}
